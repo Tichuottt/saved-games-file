@@ -1,0 +1,128 @@
+   0.000 2024-01-22 18:51:30; Factorio 1.1.57 (build 59622, win64, steam)
+   0.000 Operating system: Windows 10 (build 19045) 
+   0.000 Program arguments: "F:\Factorio\bin\x64\factorio.exe" 
+   0.000 Read data path: F:/Factorio/data
+   0.000 Write data path: C:/Users/PC/AppData/Roaming/Factorio [380945/476623MB]
+   0.000 Binaries path: F:/Factorio/bin
+   0.014 System info: [CPU: 13th Gen Intel(R) Core(TM) i5-13500, 20 cores, RAM: 7032/16125 MB, page: 12251/31485 MB, virtual: 4269/134217727 MB, extended virtual: 0 MB]
+   0.014 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.017 Available displays: 1
+   0.017  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 4070 {0x05, [0,0], 3840x2160, 32bit, 60Hz}
+   0.055 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.249 Initialised Direct3D[0]: NVIDIA GeForce RTX 4070; id: 10de-2786; driver: nvldumdx.dll 31.0.15.4665
+   0.249   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.249   [Local Video Memory] Budget: 11258MB, CurrentUsage: 14MB, Reservation: 0/5757MB
+   0.249   [Non-Local Vid.Mem.] Budget: 7403MB, CurrentUsage: 1MB, Reservation: 0/3829MB
+   0.249   Tiled resources: Tier 2
+   0.249   Unified Memory Architecture: No
+   0.249   BGR 565 Supported: Yes
+   0.249   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.249 Graphics settings preset: very-high
+   0.249   Dedicated video memory size 12026 MB
+   0.306 Desktop composition is active.
+   0.306 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   0.306                   [Max threads (load/render): 32/20] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:13,C:0,S:100]
+   0.329 DSound: Starting _dsound_update thread
+   0.329 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.329 DSound: Enter _dsound_update; tid=7008
+   0.467 Loading mod core 0.0.0 (data.lua)
+   0.568 Loading mod base 1.1.57 (data.lua)
+   1.191 Loading mod base 1.1.57 (data-updates.lua)
+   1.331 Checksum for core: 1636702648
+   1.331 Checksum of base: 1844968960
+   1.644 Prototype list checksum: 3034860339
+   1.670 Loading sounds...
+   4.614 Info PlayerData.cpp:73: Local player-data.json unavailable
+   4.614 Info PlayerData.cpp:76: Cloud player-data.json available, timestamp 1705835248
+   4.728 Initial atlas bitmap size is 16384
+   4.755 Created atlas bitmap 16384x16376 [none]
+   4.757 Created atlas bitmap 16384x13072 [none]
+   4.758 Created atlas bitmap 8192x4188 [decal]
+   4.758 Created atlas bitmap 16384x5568 [low-object]
+   4.759 Created atlas bitmap 8192x4448 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   4.759 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   4.759 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   4.759 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   4.760 Created atlas bitmap 4096x3104 [mipmap]
+   4.760 Created atlas bitmap 8192x2240 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   4.760 Created atlas bitmap 8192x1496 [alpha-mask]
+   4.762 Created atlas bitmap 16384x14768 [shadow, linear-magnification, alpha-mask]
+   4.762 Created atlas bitmap 8192x2336 [shadow, mipmap, linear-magnification, alpha-mask]
+   4.762 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   4.767 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  14.750 Parallel Sprite Loader initialized (threads: 13)
+  19.345 Sprites loaded
+  19.368 Generated mipmaps (4) for atlas [3] of size 16384x5568   
+  19.379 Generated mipmaps (3) for atlas [4] of size 8192x4448   
+  19.401 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  19.412 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  19.423 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  19.457 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  19.468 Generated mipmaps (5) for atlas [9] of size 8192x2240   
+  19.480 Generated mipmaps (3) for atlas [12] of size 8192x2336   
+  19.489 Custom mipmaps uploaded.
+  19.756 Factorio initialised
+  19.758 Steam Storage Quota: 128/128
+ 233.960 Loading map C:\Users\PC\AppData\Roaming\Factorio\saves\tutorial test game.zip: 1551253 bytes.
+ 234.021 Loading level.dat: 1016179 bytes.
+ 234.023 Info Scenario.cpp:199: Map version 1.1.57-1
+ 234.037 Loading script.dat: 377 bytes.
+ 234.044 Checksum for script C:/Users/PC/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 1627177774
+ 383.880 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+ 383.994 Info AppManagerStates.cpp:1943: Saving finished
+ 683.979 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+ 684.092 Info AppManagerStates.cpp:1943: Saving finished
+ 984.079 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+ 984.195 Info AppManagerStates.cpp:1943: Saving finished
+1284.179 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+1284.299 Info AppManagerStates.cpp:1943: Saving finished
+1609.381 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+1609.503 Info AppManagerStates.cpp:1943: Saving finished
+1909.497 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+1909.606 Info AppManagerStates.cpp:1943: Saving finished
+2387.614 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+2387.731 Info AppManagerStates.cpp:1943: Saving finished
+2587.965 Loading level.dat: 1701817 bytes.
+2587.965 Info Scenario.cpp:199: Map version 1.0.0-0
+2587.968 Info PrototypeMigrationList.cpp:194: Activating migration base/1.1.0.json
+2588.012 Checksum for script C:/Users/PC/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 2118086476
+2588.054 Checksum for script C:/Users/PC/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 2118086476
+2614.763 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+2615.068 Info AppManagerStates.cpp:1943: Saving finished
+2974.480 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+2974.585 Info AppManagerStates.cpp:1943: Saving finished
+3332.797 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+3332.905 Info AppManagerStates.cpp:1943: Saving finished
+3632.897 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+3632.994 Info AppManagerStates.cpp:1943: Saving finished
+3949.463 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+3949.561 Info AppManagerStates.cpp:1943: Saving finished
+4249.547 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+4249.645 Info AppManagerStates.cpp:1943: Saving finished
+4571.530 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+4571.635 Info AppManagerStates.cpp:1943: Saving finished
+4872.528 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+4872.637 Info AppManagerStates.cpp:1943: Saving finished
+5179.196 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+5179.297 Info AppManagerStates.cpp:1943: Saving finished
+5479.295 Info AppManager.cpp:306: Saving to _autosave3 (blocking).
+5479.411 Info AppManagerStates.cpp:1943: Saving finished
+5779.397 Info AppManager.cpp:306: Saving to _autosave1 (blocking).
+5779.495 Info AppManagerStates.cpp:1943: Saving finished
+6079.491 Info AppManager.cpp:306: Saving to _autosave2 (blocking).
+6079.615 Info AppManagerStates.cpp:1943: Saving finished
+6363.949 Info AppManagerStates.cpp:1943: Saving finished
+6366.400 Quitting: user-quit.
+6366.458 DSound: Stopping voice
+6366.458 DSound: Joining thread
+6366.461 DSound: Exit _dsound_update; tid=7008
+6366.461 DSound: Waiting for voice to stop ... signaled
+6366.461 DSound: Joined thread
+6366.461 DSound: Destroying thread
+6366.461 DSound: Thread destroyed
+6366.461 DSound: Releasing buffer
+6366.461 DSound: Voice stopped
+6366.461 DSound: Deallocating voice
+6366.461 DSound: Deallocated voice
+6366.488 Steam API shutdown.
+6366.490 Goodbye
